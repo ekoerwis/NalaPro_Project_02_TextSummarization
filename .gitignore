@@ -37,3 +37,6 @@ logs/
 *.swp
 .DS_Store
 **/.DS_Store
+Script/models/*
+
+Script/models/README.md
